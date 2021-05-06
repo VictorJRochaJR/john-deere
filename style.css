@@ -18,3 +18,6 @@ color: black;
     height: 50vh;
 }
 
+.nav-item{
+    margin-bottom: 0;
+}
