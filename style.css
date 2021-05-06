@@ -1,0 +1,20 @@
+.text-black{
+color: black;
+}
+
+.left-edge{
+    border-left: 2px solid green;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 7vw;
+}
+
+
+.background-image{
+    background-image: url(https://www.deere.com/assets/images/common/home-page/nogoingback-1366x347.jpg);
+    background-size: cover;
+    height: 50vh;
+}
+
